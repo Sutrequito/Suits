@@ -22,3 +22,5 @@ Database: MariaDB
 Frontend: HTML5, CSS3 (Custom Glassmorphism Design), JavaScript (Vanilla)
 
 Security: Password hashing, secure user sessions, and detailed server-side validations.
+<img width="1897" height="860" alt="image" src="https://github.com/user-attachments/assets/86c0b871-ec82-495e-ab12-3618c1974be1" />
+
